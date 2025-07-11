@@ -1,0 +1,1 @@
+import"../chunks/CWj6FrbW.js";import"../chunks/BhYtAULZ.js";import{w as a,b as r,n as e}from"../chunks/BFYLa4bX.js";import{p as n}from"../chunks/BOmJMGAa.js";function f(o,p){n(p,"data",8),e();var t=a("also a work in progress lol");r(o,t)}export{f as component};
