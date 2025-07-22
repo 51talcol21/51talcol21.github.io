@@ -10,8 +10,16 @@
     </h1>
     
     <p class="max-w-3xl mx-auto">
-        <strong> Currently working on uploading all of my projects, but here are the recent ones! </strong>
+        <strong> Currently working on uploading all of my older projects, but here are the recent ones! </strong>
     </p>
+
+    <span>
+        <a href="https://github.com/51talcol21/fpir_rust_seq" 
+        class="text-blue-600 hover:text-green-500 hover:transition-colors transition duration-300 ease-in-out">
+        fpir aka FASTX Parser In Rust
+        </a> - A fast Rust-based CLI tool for parsing FASTA/FASTQ files and computing basic sequence statistics.
+    </span>
+
 
     <span>
         <a href="https://51talcol21.github.io/needleman-wunsch-visualizer/" 
